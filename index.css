@@ -14,6 +14,9 @@ body{
 }
 
 h1{
+    font-family: 'Century Gothic';
+    font-size: 40px;
+    font-weight: 700;
     text-align: center;
 }
 
